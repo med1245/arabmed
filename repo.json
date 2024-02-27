@@ -3,6 +3,6 @@
     "description": "med rule",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/med1245/arabmed/builds/plugins.json"
+      "https://raw.githubusercontent.com/med1245/arabmedo/builds/plugins.json"
     ]
   }
